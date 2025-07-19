@@ -1,1 +1,0 @@
-# overthinking-simulator
